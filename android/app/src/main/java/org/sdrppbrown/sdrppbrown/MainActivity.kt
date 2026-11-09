@@ -550,6 +550,21 @@ class MainActivity : NativeActivity(), SensorEventListener {
         extractDir(aman, fdir + "/res", "res");
         createIfDoesntExist(fdir + "/modules");
 
+        // CAT-DETEC: install the default Boischatel frequency presets on first
+        // launch only. Never overwrite: the user may edit or delete presets.
+        val fmConfig = File(fdir + "/frequency_manager_config.json");
+        if (!fmConfig.exists()) {
+            try {
+                val _is = aman.open("frequency_manager_config.json");
+                val _os = FileOutputStream(fmConfig);
+                _is.copyTo(_os);
+                _os.close();
+                _is.close();
+            } catch (e: java.lang.Exception) {
+                Log.w(TAG, "Could not install default frequency presets: ${e.message}");
+            }
+        }
+
         return fdir;
     }
 

@@ -1,0 +1,372 @@
+{
+  "selectedList": "Boischatel",
+  "bookmarkDisplayMode": 1,
+  "lists": {
+    "Boischatel": {
+      "showOnWaterfall": true,
+      "bookmarks": {
+        "VE2REA — 145,110": {
+          "frequency": 145110000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "VE2RGW — 145,130": {
+          "frequency": 145130000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "VE2RHT — 145,170": {
+          "frequency": 145170000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "VE2RBJ — 145,330": {
+          "frequency": 145330000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "VE2RTI — 145,470": {
+          "frequency": 145470000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "YQB ATIS FR — 128,300": {
+          "frequency": 128300000.00000001,
+          "bandwidth": 10000.0,
+          "mode": 2
+        },
+        "YQB ATIS EN — 134,600": {
+          "frequency": 134600000.0,
+          "bandwidth": 10000.0,
+          "mode": 2
+        },
+        "YQB Tour — 118,650": {
+          "frequency": 118650000.0,
+          "bandwidth": 10000.0,
+          "mode": 2
+        },
+        "YQB Sol (GND) — 121,900": {
+          "frequency": 121900000.0,
+          "bandwidth": 10000.0,
+          "mode": 2
+        },
+        "YQB Terminal VFR — 124,000": {
+          "frequency": 124000000.0,
+          "bandwidth": 10000.0,
+          "mode": 2
+        },
+        "YQB Terminal IFR — 127,850": {
+          "frequency": 127850000.0,
+          "bandwidth": 10000.0,
+          "mode": 2
+        },
+        "Québec Radio FISE — 123,275": {
+          "frequency": 123275000.0,
+          "bandwidth": 10000.0,
+          "mode": 2
+        },
+        "GHIO — 458,175 simplex": {
+          "frequency": 458175000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO trunk sortie — 451,275": {
+          "frequency": 451275000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO trunk sortie — 451,7875": {
+          "frequency": 451787500.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO trunk sortie — 452,3125": {
+          "frequency": 452312500.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO trunk sortie — 452,625": {
+          "frequency": 452625000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO trunk sortie — 454,125": {
+          "frequency": 454125000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 453,0625": {
+          "frequency": 453062500.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 453,3875": {
+          "frequency": 453387500.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 453,65": {
+          "frequency": 453650000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 453,6625": {
+          "frequency": 453662500.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 453,8125": {
+          "frequency": 453812500.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 458,0625": {
+          "frequency": 458062500.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 458,2625": {
+          "frequency": 458262500.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 458,3625": {
+          "frequency": 458362500.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 458,7875": {
+          "frequency": 458787500.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 458,825": {
+          "frequency": 458825000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 464,05": {
+          "frequency": 464050000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 464,075": {
+          "frequency": 464075000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 464,0875": {
+          "frequency": 464087500.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 464,125": {
+          "frequency": 464125000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 464,55": {
+          "frequency": 464550000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 464,575": {
+          "frequency": 464575000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 464,6375": {
+          "frequency": 464637500.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 464,7": {
+          "frequency": 464700000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 464,7625": {
+          "frequency": 464762500.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 464,775": {
+          "frequency": 464775000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 469,05": {
+          "frequency": 469050000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 469,1": {
+          "frequency": 469100000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 469,425": {
+          "frequency": 469425000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 469,6875": {
+          "frequency": 469687500.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO simplex DMR — 469,725": {
+          "frequency": 469725000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "GHIO FM — 453,1875": {
+          "frequency": 453187500.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "GHIO FM — 453,2625": {
+          "frequency": 453262500.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "GHIO FM — 453,7625": {
+          "frequency": 453762500.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "GHIO FM — 464,375": {
+          "frequency": 464375000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "GHIO FM — 469,3": {
+          "frequency": 469300000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "Boischatel mun, — 151,205": {
+          "frequency": 151205000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "Boischatel mun, — 155,730": {
+          "frequency": 155730000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "Boischatel mun, — 159,390": {
+          "frequency": 159390000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "Boischatel mun, — 155,790": {
+          "frequency": 155790000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "Boischatel simplex — 140,430": {
+          "frequency": 140430000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "Boischatel simplex — 140,445": {
+          "frequency": 140445000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "Boischatel simplex — 140,460": {
+          "frequency": 140460000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "Boischatel simplex — 150,500": {
+          "frequency": 150500000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "Boischatel simplex — 151,400": {
+          "frequency": 151400000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "Boischatel simplex — 154,875": {
+          "frequency": 154875000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "Boischatel simplex — 155,355": {
+          "frequency": 155355000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "Boischatel simplex — 155,610": {
+          "frequency": 155610000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "Boischatel simplex — 173,880": {
+          "frequency": 173880000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "Boischatel num. — 464,3": {
+          "frequency": 464300000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "Scolaire DMR répéteur — 451,125": {
+          "frequency": 451125000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "Scolaire DMR entrée — 456,125": {
+          "frequency": 456125000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "Lavoie Transport — 467,5375": {
+          "frequency": 467537500.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "Fortier DMR — 460,275": {
+          "frequency": 460275000.0,
+          "bandwidth": 12500.0,
+          "mode": 4865
+        },
+        "Golf Royal Québec — 451,575": {
+          "frequency": 451575000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "Ferme Chatel — 453,5375": {
+          "frequency": 453537500.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "Maritime ch.16 — 156,800": {
+          "frequency": 156800000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        },
+        "APRS — 144,390": {
+          "frequency": 144390000.0,
+          "bandwidth": 12500.0,
+          "mode": 0
+        }
+      }
+    },
+    "General": {
+      "showOnWaterfall": true,
+      "bookmarks": {}
+    }
+  },
+  "scanner": {
+    "scanIntervalMs": 100.0,
+    "listenTimeSec": 10.0,
+    "noiseFloor": -120.0,
+    "signalMarginDb": 6.0,
+    "squelchEnabled": false
+  }
+}

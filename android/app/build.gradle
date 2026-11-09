@@ -7,11 +7,11 @@ android {
 //    ndkVersion "25.1.8937393"
     ndkVersion "25.2.9519653"
     defaultConfig {
-        applicationId "org.sdrppbrown.sdrppbrown"
+        applicationId "org.catdetec.sdr"
         minSdkVersion 28
         targetSdkVersion 33
         versionCode 1
-        versionName "1.2.1"
+        versionName "1.2.1-catdetec"
 
         externalNativeBuild {
             cmake {
